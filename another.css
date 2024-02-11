@@ -1,0 +1,14 @@
+.name{
+    display: block;
+    margin-bottom: 5px;
+}
+button{
+    background-color: blue;
+}
+button:active{
+    background-color: greenyellow;
+}
+button:hover{
+    color: aqua;
+ 
+}
